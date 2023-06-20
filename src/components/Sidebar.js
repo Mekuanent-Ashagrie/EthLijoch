@@ -10,9 +10,6 @@ const Sidebar = ({ show, close }) => {
       <iframe
           title="Survey"
           src="https://docs.google.com/forms/d/e/1FAIpQLSdH4rZpKlBUQ71pJrJentzaM-n_z1kes7bkw2JXllRxoPd9BA/viewform?embedded=true"
-          frameborder="0"
-          marginheight="0"
-          marginwidth="0"
           style={{ width: '100%', height: 'calc(100% - 3px)' }}
         >
           Loading…
